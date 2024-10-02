@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @nissank19
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning AI and machine learning, will be learning JS and aws later
+- 👀 I’m interested in AI, computer vision, and semiconductors 
+- 🌱 I’m currently learning AI and machine learning, JS and Java I will be learning  aws later
 - 💞
 - 📫 How to reach me LinkedIn
 - 😄 Pronouns: HE
-- ⚡ Fun fact: NOthing
+- ⚡ Fun fact: Nothing
 
 <!---
 nissank19/nissank19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
