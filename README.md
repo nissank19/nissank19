@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nissank19
+- 👋 Hi, I’m Fabian
 - 👀 I’m interested in AI, computer vision, and semiconductors 
 - 🌱 I’m currently learning AI and machine learning, JS and Java I will be learning  aws later
 - 📫 How to reach me LinkedIn(Fabian Nissanka)
