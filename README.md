@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fabian
-- 👀 I’m interested in AI, computer vision, and semiconductors 
-- 🌱 I’m currently learning AI and machine learning, JS and C++ I will be learning  aws later
-- 📫 How to reach me LinkedIn(Fabian Nissanka)
+- 👀 I’m interested in statistics in CS and finance  
+- 🌱 I’m currently learning AI and machine learning, Java, Python and C++ I will be learning  aws/azure later
+- 📫 How to reach me LinkedIn(Fabian Nissanka), email: fabiannissankastudy@gmail.com
 - 😄 Pronouns: HE
 
 <!---
